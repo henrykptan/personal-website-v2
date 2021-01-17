@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Java
                     </h4>
                   <p className="m-0 text-sm">
-                    Object Oriented programming in Java, using Spring with Gradle or Maven. Constructing APIs interacting via REST, JMX and Message Queues, as well as interaction with relational database systems.
+                    Object Oriented programming in Java, using Spring with Gradle or Maven. Constructing APIs interacting via HTTP, JMX and Message Queues, as well as connecting to relational database systems.
                     </p>
                 </div>
               </div>
@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Python
                     </h4>
                   <p className="m-0 text-sm">
-                    Functional scripting and Object Oriented programming in Python, using Pypi and libraries such as Numpy, Pandas and Dask.
+                    Functional scripting and Object Oriented programming in Python, using Pip  and libraries such as Numpy, Pandas and Pytest.
                     </p>
                 </div>
               </div>
@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Front End
                     </h4>
                   <p className="m-0 text-sm">
-                    Designing and implementing Web UIs with Angular, connecting to a Java backend. Beginner experience with React.
+                    Designing and implementing Web UIs with Angular with Typescript, connecting to a Java backend. Beginner experience with React with Javascript.
                     </p>
                 </div>
               </div>
